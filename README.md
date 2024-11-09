@@ -49,4 +49,4 @@ Este proyecto consiste en el desarrollo de un modelo de base de datos en MongoDB
 [Video Explicativo](....)
 
 ## Enlace al Repositorio
-[Repositorio en GitHub](....)
+[Repositorio en GitHub](https://github.com/MariaAlejandraBoadaRodriguez/BasesDatosNoSQL.git)
